@@ -1,5 +1,3 @@
-[![CNCF Landscape](https://img.shields.io/badge/CNCF%20Landscape-5699C6)](https://landscape.cncf.io/?item=cncf-members--silver--stackgenie-member)
-# Hi  👋
 ## Stackgenie: Your Cloud Native and Kubernetes Experts
 
 Stackgenie is your one-stop shop for unlocking the power of cloud native technologies and Kubernetes. We have extensive experience, from setting up bare-metal infrastructure to building cutting-edge Kubernetes solutions. 
