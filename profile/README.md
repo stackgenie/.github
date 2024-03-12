@@ -9,3 +9,10 @@ We empower businesses through:
 * **Custom Kubernetes Controller Development:** We create custom Kubernetes controllers tailored to your specific needs.
 
 Our services encompass everything from defining your cloud native goals to implementing a comprehensive solution, including CI/CD/GitOps, Service Mesh, Observability, and Infrastructure as Code.
+
+
+## Let's talk cloud native !
+
+- 🌐 [Visit our Website](https://www.stackgenie.io)
+- ✉️ Email us at info@stackgenie.io
+- 📱 Connect on [Twitter](https://twitter.com/stackgenie_io) and [Linkedin](https://www.linkedin.com/company/stackgenie/)
