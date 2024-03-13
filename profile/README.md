@@ -57,7 +57,7 @@ Our services encompass everything from defining your cloud native goals to imple
     </a>
   </td>
   <td>
-    <a href="https://www.stackgenie.io/why-choose-a-kcsp-for-your-kubernetes-needs/">why choose a KCSP for your kubernetes needs</a> <br/>
+    <a href="https://www.stackgenie.io/why-choose-a-kcsp-for-your-kubernetes-needs/">Why choose a KCSP for your kubernetes needs</a> <br/>
     by Mathew Joseph
     <br/>
     <br/>
