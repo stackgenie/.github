@@ -16,7 +16,7 @@ Our services encompass everything from defining your cloud native goals to imple
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
     <a href="https://www.stackgenie.io/secure-scalable-fleet-management-app/">
-      <img width="250px" src="https://cdn-ehkfjjj.nitrocdn.com/TPzLnPriZkoNuIzbgtwoLEMXmVTszfpW/assets/images/optimized/rev-c5294cb/www.stackgenie.io/wp-content/uploads/2024/01/Case-Study_Fleet.svg">
+      <img width="250px" src="https://www.stackgenie.io/wp-content/uploads/2024/01/Case-Study_Fleet.svg">
     </a>
   </td>
   <td>
@@ -31,7 +31,7 @@ Our services encompass everything from defining your cloud native goals to imple
 <tr>
   <td>
     <a href="https://www.stackgenie.io/go-faster-go-devops/">
-    <img width="250px" src="https://cdn-ehkfjjj.nitrocdn.com/TPzLnPriZkoNuIzbgtwoLEMXmVTszfpW/assets/images/optimized/rev-c5294cb/www.stackgenie.io/wp-content/uploads/2020/02/Case-Study_CRM.svg"> 
+    <img width="250px" src="https://www.stackgenie.io/wp-content/uploads/2020/02/Case-Study_CRM.svg"> 
     </a>
   </td>
   <td>
@@ -53,7 +53,7 @@ Our services encompass everything from defining your cloud native goals to imple
 <!-- BLOG-POST-LIST:START --><tr>
   <td>
     <a href="https://www.stackgenie.io/why-choose-a-kcsp-for-your-kubernetes-needs/">
-      <img width="250px" src="https://cdn-ehkfjjj.nitrocdn.com/TPzLnPriZkoNuIzbgtwoLEMXmVTszfpW/assets/images/optimized/rev-c5294cb/www.stackgenie.io/wp-content/uploads/2024/02/Why-Choose-a-KCSP-copy.jpg">
+      <img width="250px" src="https://www.stackgenie.io/wp-content/uploads/2024/02/Why-Choose-a-KCSP-copy.jpg">
     </a>
   </td>
   <td>
@@ -68,7 +68,7 @@ Our services encompass everything from defining your cloud native goals to imple
 <tr>
   <td>
     <a href="https://www.stackgenie.io/setting-up-an-eks-cluster-with-karpenter-on-graviton-processors/">
-    <img width="250px" src="https://cdn-ehkfjjj.nitrocdn.com/TPzLnPriZkoNuIzbgtwoLEMXmVTszfpW/assets/images/optimized/rev-c5294cb/www.stackgenie.io/wp-content/uploads/2024/02/eks-karpenter-copy.jpg"> 
+    <img width="250px" src="https://www.stackgenie.io/wp-content/uploads/2024/02/eks-karpenter-copy.jpg"> 
     </a>
   </td>
   <td>
